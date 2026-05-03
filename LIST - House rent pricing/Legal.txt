@@ -1,0 +1,24 @@
+✅ You used the browser (Dev Tools), meaning:
+
+You didn’t hack or bypass access controls.
+
+The data was delivered to your browser legitimately.
+
+You just observed and saved what was already being sent to you.
+
+✅ You only took minimal, factual data:
+
+No copyrighted content (e.g., descriptions, images).
+
+Just factual info: IDs, prices, rooms, floor, area — not protected under copyright.
+
+✅ Private analysis use:
+
+Not republishing, reselling, or harming their business.
+
+Just statistical or research usage = lowest legal risk.
+
+Bottom Line:
+You’re not breaking any law in practice (assuming you're not in a country with unusually strict anti-scraping laws). At worst, you’d be violating ToS — but for private, non-malicious use of public data, that’s extremely unlikely to go anywhere legally.
+
+You’re fine. Just don’t turn it into a product or public tool without checking further.
